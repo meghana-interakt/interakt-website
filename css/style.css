@@ -111,10 +111,10 @@ Version: 1.0.0
 body {
 	
     font-size: 15px;
-    line-height: 9px;
+    line-height: 27px;
     color: #4C4C4D;
 	font-weight:400;
-	background: #6610f2;
+	background: #007bff;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-family: 'Poppins', sans-serif;
@@ -212,7 +212,7 @@ ul,li{
 .select2-dropdown--below,
 .select2-drop{
 	z-index: 99;
-    -webkit-box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.2);
 }
@@ -238,7 +238,7 @@ ul,li{
 
 .select2-dropdown,
 .select2-search--dropdown{
-	border-color:#6610f2;
+	border-color: #e0e6ea;
 }
 
 .select2-container--default .select2-results__option{
@@ -3150,7 +3150,7 @@ hr{
 
 .header-style-two{
 	position: relative;
-	background:#6610f2;
+	background: #ffffff;
 }
 
 .header-style-two .contact-list li i,
@@ -3161,7 +3161,7 @@ hr{
 .header-style-two .service_wrapper p,
 .header-style-two .main-menu .navigation > li.dropdown > a:after,
 .header-style-two .main-menu .navigation > li > a{
-	color: #ffffff;
+	color: #000000;
 }
 
 .header-style-two .outer-box{
@@ -3392,7 +3392,7 @@ hr{
 .color-scheme-red .main-footer .call-us .service-num a i,
 .color-scheme-red .header-style-two .header-top .service-num a:hover,
 .color-scheme-red .main-header .service_wrapper .icon{
-	color: #814dfa;
+	color: #fa584d;
 }
 
 .color-scheme-red .main-menu .navigation > li .mega-menu-bar h3:before,
@@ -10151,10 +10151,4 @@ hr{
 .contact-map-section iframe{
 	position: relative;
 	display: block;
-}
-
-
-/** code changed by MR */
-.contact-list > li, .contact-list > li > a, .contact-list > li > a > i, .contact-list > li > i {
-	color:black !important;
 }
