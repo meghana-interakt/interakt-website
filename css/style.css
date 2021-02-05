@@ -2091,6 +2091,7 @@ hr{
 }
 
 .main-header .main-box{
+	background-color: #0150ec;
 	position: relative;
 	display: block;
 	padding: 0 30px;
@@ -3161,7 +3162,7 @@ hr{
 .header-style-two .service_wrapper p,
 .header-style-two .main-menu .navigation > li.dropdown > a:after,
 .header-style-two .main-menu .navigation > li > a{
-	color: #000000;
+	color: #fff;
 }
 
 .header-style-two .outer-box{
@@ -10152,3 +10153,8 @@ hr{
 	position: relative;
 	display: block;
 }
+
+
+.contact-list li, .contact-list li a, .contact-list li i {
+	color: black !important;
+} 
