@@ -10160,7 +10160,7 @@ My Code
 */
 .contact-list li, .contact-list li a, .contact-list li i {
 	color: black !important;
-} 
+}
 .mr-btn {
 	padding: 10px 15px;
 	font-size: 15px;
@@ -10217,4 +10217,7 @@ My Code
 .about-cont {
 	padding-top: 50px;
 	padding-bottom: 20px;
+}
+.mr-menu > li > a, .mr-menu > li > a::after {
+	color: #ffffff !important;
 }
