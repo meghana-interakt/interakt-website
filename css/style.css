@@ -10155,6 +10155,66 @@ hr{
 }
 
 
+/*
+My Code
+*/
 .contact-list li, .contact-list li a, .contact-list li i {
 	color: black !important;
 } 
+.mr-btn {
+	padding: 10px 15px;
+	font-size: 15px;
+	font-weight: 500;
+	border-radius: 0px;
+	background-color: #3f7dc6;
+}
+.mr-btn:hover {
+	padding: 10px 15px;
+	font-size: 15px;
+	font-weight: 500;
+	border-radius: 0px;
+	border-color: #3f7dc6;
+	background-color: #ffffff;
+	color: #3f7dc6;
+}
+.mb-2 {
+	margin-bottom: 2% !important;
+}
+.about-img {
+    -webkit-box-shadow: 0 0 15px #dadbff;
+    box-shadow: 0 0 15px #dadbff;
+    position: relative;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.about-img::before {
+    position: absolute;
+    left: -31px;
+    top: -30px;
+    width: 90%;
+    height: 92%;
+    z-index: -1;
+    content: '';
+    background-color: #EEEEFE;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+.about-img::after {
+    position: absolute;
+    right: -31px;
+    bottom: -30px;
+    width: 90%;
+    height: 92%;
+    z-index: -1;
+    content: '';
+    background-color: #EEEEFE;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+.about-cont {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
