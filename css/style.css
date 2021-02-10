@@ -3488,7 +3488,7 @@ hr{
 }
 
 .page-title h1{
-    color: #000000;
+    color: #f8f9fa;
     font-size: 56px;
     line-height: 1.2em;
     margin: 0 0 -3px;
@@ -3594,7 +3594,7 @@ hr{
 .sec-title h3{
 	position: relative;
     font-size: 36px;
-    color: #000000;
+    color: #fff;
     line-height: 1.4em;
     font-weight: 700;
 }
@@ -5084,14 +5084,14 @@ hr{
 }
 
 .team-block .info-box .name a{
-	color: #000000;
+	color: #f8f9fa;
 }
 
 .team-block .info-box .designation{
 	position: relative;
 	font-size: 15px;
 	line-height: 27px;
-	color: #4c4c4d;
+	color: #f8f9fa;
 }
 
 /*** 
