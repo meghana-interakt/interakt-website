@@ -10181,6 +10181,9 @@ My Code
 	background-color: #ffffff;
 	color: #3f7dc6;
 }
+.mr-btn a:hover {
+	color: #3f7dc6;
+}
 .mb-2 {
 	margin-bottom: 2% !important;
 }
