@@ -114,11 +114,7 @@ body {
     line-height: 27px;
     color: #4C4C4D;
 	font-weight:400;
-<<<<<<< HEAD
-	background: #f8f9fa;
-=======
 	/* background: #007bff; */
->>>>>>> b31874354d2474d7dd00fa85e2972ec80a7b984f
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-family: 'Poppins', sans-serif;
@@ -10179,9 +10175,6 @@ My Code
 	border-radius: 0px;
 	border-color: #3f7dc6;
 	background-color: #ffffff;
-	color: #3f7dc6;
-}
-.mr-btn a:hover {
 	color: #3f7dc6;
 }
 .mb-2 {
